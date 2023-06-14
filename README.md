@@ -160,11 +160,5 @@
 <a href="https://github.com/cozyGarage?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=cozyGarage&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@cozyGarage's trophy stats"/></a>
 </p>
 
-<h2>Contact me :postbox:</h2>
-<div>
-  <a href = "mailto:sendtotrungnguyen@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
-</div>
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
