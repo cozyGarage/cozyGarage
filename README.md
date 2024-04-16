@@ -11,7 +11,7 @@
 
 <h2>My stack :man_technologist:</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,python,git,github,bash,linux,vim,vscode,ai,ps,markdown,csharp" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,python,git,github,bash,linux,vim,vscode,markdown,csharp" />
   </a>
 <h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
