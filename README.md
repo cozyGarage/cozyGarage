@@ -10,6 +10,9 @@
 </div>
 
 <h2>My stack :man_technologist:</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,python,git,github,bash,linux,vim,vscode,ai,ps,markdown,csharp" />
+  </a>
 <h2>Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{cozyGarage}/count.svg" alt="cozyGarage :: Visitor's Count" /></p>
