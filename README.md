@@ -160,8 +160,6 @@ const currentFocus = {
 
 ---
 
----
-
 ### 🎯 Maximizing Your GitHub Profile for CV Impact
 
 <details>
