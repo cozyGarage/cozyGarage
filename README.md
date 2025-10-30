@@ -91,7 +91,7 @@ const currentFocus = {
 
 <h4 align="center">Profile Views 👀</h4>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{cozyGarage}/count.svg" alt="cozyGarage :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/cozyGarage/count.svg" alt="cozyGarage :: Visitor's Count" />
 </p>
 
 <p align="center">
@@ -122,6 +122,12 @@ const currentFocus = {
 
 ### 🌐 Connect With Me
 
+<!-- 
+  📝 Note: Update these links with your actual social media profiles
+  - LinkedIn: https://linkedin.com/in/YOUR-PROFILE
+  - Email: your-email@domain.com
+  - Twitter/X: https://twitter.com/YOUR-HANDLE
+-->
 <p align="center">
   <a href="https://github.com/cozyGarage"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/cozyGarage"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
