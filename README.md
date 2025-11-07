@@ -13,7 +13,7 @@
   
 ### 👨‍💻 About Me
 
-🚀 **AI Wrapper Engineer & Full Stack Developer** with 2+ years of experience building intelligent, scalable applications  
+🚀 **AI Wrapper Engineer & Full Stack Developer** with 3+ years of experience building intelligent, scalable applications  
 🤖 Specialized in **AI/ML Integration**, **LLM Applications**, and **ChatGPT-powered Solutions**  
 ☁️ Expert in **Cloud Architecture** (AWS, Azure, GCP) with strong **DevOps & CI/CD** practices  
 🐧 Proficient in **Linux System Administration** and **Infrastructure as Code**  
