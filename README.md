@@ -3,6 +3,12 @@
 </h1>
 
 <p align="center">
+  <a href="#-github-analytics">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=✨+Want+to+check+statics+right+away%3F+Go+for+it!+✨;📊+Click+here+for+awesome+stats!+📊" alt="Stats Link" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Expert-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F37F7?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-Engineer-FF6B6B?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -106,13 +112,38 @@ const currentFocus = {
 
 ### 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=Github%20Stats)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cozyGarage&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=Github%20Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=cozyGarage&theme=dark&hide_border=false" />
+</p>
+
+### 🎯 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cozyGarage&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" />
+</p>
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=cozyGarage&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cozyGarage&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+### 🎨 Profile Views & Fun Stuff
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cozyGarage&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/cozyGarage?label=Followers&style=for-the-badge&color=FF6B6B&logo=github" />
+  <img src="https://img.shields.io/github/stars/cozyGarage?label=Total%20Stars&style=for-the-badge&color=FFA500&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
