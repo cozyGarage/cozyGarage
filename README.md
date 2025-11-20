@@ -114,6 +114,8 @@ const currentFocus = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=Github%20Stats" />
+</p>
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
@@ -126,10 +128,6 @@ const currentFocus = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cozyGarage&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" />
 </p>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=cozyGarage&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 
 ### 🎨 Profile Views & Fun Stuff
@@ -162,11 +160,11 @@ const currentFocus = {
 ### 💬 Let's Collaborate!
 
 **I'm open to:**
-- 🤝 Collaborating on AI/ML projects
-- 💼 Full-time opportunities in AI Engineering
-- 🎯 Contributing to open-source projects
-- 🗣️ Tech talks and knowledge sharing
-- 📚 Consulting on AI integration and DevOps
+🤝 Collaborating on AI/ML projects
+💼 Full-time opportunities in AI Engineering
+🎯 Contributing to open-source projects
+🗣️ Tech talks and knowledge sharing
+📚 Consulting on AI integration and DevOps
 
 </div>
 
