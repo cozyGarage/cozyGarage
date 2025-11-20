@@ -129,9 +129,8 @@ const currentFocus = {
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cozyGarage&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=cozyGarage&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+
 
 ### 🎨 Profile Views & Fun Stuff
 
@@ -148,8 +147,6 @@ const currentFocus = {
 ---
 
 ### 🌐 Connect With Me
-
-> **⚠️ Important:** Update these links with your actual professional profiles for maximum CV impact!
 
 <p align="center">
   <a href="https://github.com/cozyGarage"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
