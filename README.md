@@ -125,10 +125,13 @@ const currentFocus = {
 <!-- activity graph heroku-app end -->
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyGarage&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="cozyGarage :: Top Langs" />
-<a href="https://github.com/cozyGarage?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=cozyGarage&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@cozyGarage's trophy stats"/></a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=Github%20Stats)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cozyGarage&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=cozyGarage&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -157,41 +160,6 @@ const currentFocus = {
 - 📚 Consulting on AI integration and DevOps
 
 </div>
-
----
-
-### 🎯 Maximizing Your GitHub Profile for CV Impact
-
-<details>
-<summary><b>💡 Click here for actionable strategies to enhance your profile</b></summary>
-
-<br>
-
-**Immediate Actions (High Impact for CV):**
-1. ✅ **Fill Featured Projects** - Add 3-5 real projects with live demos or detailed READMEs
-2. ✅ **Update Social Links** - Add your actual LinkedIn and professional email
-3. ✅ **Pin Best Repositories** - Pin your 6 best repos on your GitHub profile
-4. ✅ **Write Detailed READMEs** - Each pinned repo should have setup instructions, demos, and screenshots
-5. ✅ **Add Contribution Guidelines** - Shows you understand professional development practices
-
-**Content to Add (Medium Priority):**
-6. 📝 **Blog/Articles** - Link to technical posts on Medium, Dev.to, or Hashnode
-7. 🎓 **Certifications** - Display AWS, Azure, GCP, or K8s certifications as badges
-8. 🤝 **Open Source Contributions** - Contribute to popular AI/ML libraries and showcase them
-9. 🗣️ **Tech Talks** - Link to any presentations, workshops, or speaking engagements
-10. 📊 **Case Studies** - Brief descriptions of challenging problems you've solved
-
-**Long-term Strategy:**
-11. 🌐 **Personal Website** - Portfolio site with detailed project showcases
-12. 📺 **Tutorial Content** - Create videos or blog posts explaining concepts
-13. 📰 **Newsletter** - Start sharing AI engineering insights
-14. 👥 **Community Involvement** - Participate in AI/ML forums and discussions
-
-**Pro Tips for Recruiters:**
-- Keep your profile active with regular commits (even small ones show consistency)
-- Use GitHub Projects to showcase your project management skills
-- Add relevant keywords in project descriptions for searchability
-- Keep your contribution graph green (but focus on quality over quantity)
 
 </details>
 
