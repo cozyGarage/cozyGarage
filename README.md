@@ -160,11 +160,11 @@ const currentFocus = {
 ### 💬 Let's Collaborate!
 
 **I'm open to:**
-🤝 Collaborating on AI/ML projects
-💼 Full-time opportunities in AI Engineering
-🎯 Contributing to open-source projects
-🗣️ Tech talks and knowledge sharing
-📚 Consulting on AI integration and DevOps
+<p>🤝 Collaborating on AI/ML projects</p>
+<p>💼 Full-time opportunities in AI Engineering</p>
+<p>🎯 Contributing to open-source projects</p>
+<p>🗣️ Tech talks and knowledge sharing</p>
+<p>📚 Consulting on AI integration and DevOps</p>
 
 </div>
 
