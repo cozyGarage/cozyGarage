@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   ![Profile Views](https://komarev.com/ghpvc/?username=cozyGarage&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+   <img src="https://komarev.com/ghpvc/?username=cozyGarage&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -165,8 +165,6 @@ const currentFocus = {
 <p>📚 Consulting on AI integration and DevOps</p>
 
 </div>
-
-</details>
 
 ---
 
