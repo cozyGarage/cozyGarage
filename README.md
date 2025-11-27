@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#-github-analytics">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=✨+Want+to+check+statics+right+away%3F+Go+for+it!+✨;📊+Click+here+for+awesome+stats!+📊" alt="Stats Link" />
-  </a>
+   ![Profile Views](https://komarev.com/ghpvc/?username=cozyGarage&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 </p>
 
 <p align="center">
