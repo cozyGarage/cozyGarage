@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/AI%20Engineer-Expert-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F37F7?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-Engineer-FF6B6B?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Architect-FFA500?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <div align="center">
