@@ -101,8 +101,6 @@ const currentFocus = {
 | 🌐 **Web App Name** | Full-stack application description | React, Node.js, MongoDB | [Live](#) • [Code](#) |
 | ☁️ **DevOps Tool** | Infrastructure or automation project | Docker, Kubernetes, Terraform | [Docs](#) • [Code](#) |
 
-> **Note:** Replace these with your actual projects. Showcase 3-5 of your best works with live demos or detailed documentation.
-
 </div>
 
 ---
