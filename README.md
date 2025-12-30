@@ -108,13 +108,6 @@ const currentFocus = {
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=Github%20Stats" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyGarage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=cozyGarage&theme=dark&hide_border=false" />
 </p>
 
