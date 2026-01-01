@@ -27,7 +27,7 @@
 <tr>
 <td align="center" width="50%">
 
-**🤖 AI & ML**  
+**🤖 AI & Machine Learning**  
 Building intelligent systems with machine learning frameworks and LLM integration
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI ML" />
