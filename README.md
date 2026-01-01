@@ -29,9 +29,8 @@
 
 ### 🤖 AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI ML" />
+  Python: <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI ML" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ### 🎨 Frontend Development
