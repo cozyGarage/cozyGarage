@@ -97,8 +97,8 @@ const currentFocus = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🤖 **AI Project Name** | Brief description of your AI/ML project | Python, TensorFlow, FastAPI | [Demo](#) • [Code](#) |
-| 🌐 **Web App Name** | Full-stack application description | React, Node.js, MongoDB | [Live](#) • [Code](#) |
+| 🤖 **Othello** | Othello game that can play with AI, AI learning | TypeScript & Bun | [Demo](https://cozygarage.github.io/Othello/) • [Code](https://github.com/cozyGarage/Othello) |
+| 🌐 **Othello** | Full-stack application description | React, Node.js, MongoDB | [Live](#) • [Code](#) |
 | ☁️ **DevOps Tool** | Infrastructure or automation project | Docker, Kubernetes, Terraform | [Docs](#) • [Code](#) |
 
 </div>
