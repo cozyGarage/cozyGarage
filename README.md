@@ -78,7 +78,7 @@ Working with various database systems for data persistence
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 **[Othello](https://github.com/cozyGarage/Othello)** | Interactive Othello game with AI opponent and learning capabilities | TypeScript, Bun, AI/ML |
+| 🤖 **[Othello](https://github.com/cozyGarage/Othello)** | Interactive Othello game with AI opponent and learning capabilities – [Live Demo](https://cozygarage.github.io/Othello/) | TypeScript, Bun, AI/ML |
 
 </div>
 
