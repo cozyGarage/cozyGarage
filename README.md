@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Open+Source+Enthusiast" />
-</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Full+Stack+Developer;DevOps+%7C+Cloud+Practioner+%7C+Linux+Expert;Building+Intelligent+Solutions+%F0%9F%A4%96%E2%9C%A8" alt="Typing SVG" />
+
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=cozyGarage&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" alt="Profile Views" />
@@ -79,7 +79,7 @@ Working with various database systems for data persistence
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🤖 **[Othello](https://github.com/cozyGarage/Othello)** | Interactive Othello game with AI opponent and learning capabilities – [Live Demo](https://cozygarage.github.io/Othello/) | TypeScript, React, Tailwind CSS |
-| 📝 **[HackMyResume](https://hackmyresu.me)** | A fullstack website builder for creating professional resumes. | Full Stack |
+| 📝 **[HackMyResume](https://hackmyresu.me)** | A fullstack resume builder for creating professional resumes and cover letter. | Full Stack, NestJS, TypeScript, React, Nx |
 
 </div>
 
