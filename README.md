@@ -80,7 +80,7 @@ Working with various database systems for data persistence
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Othello](https://github.com/cozyGarage/Othello)** | Interactive Othello game with AI opponent and learning capabilities – [Live Demo](https://cozygarage.github.io/Othello/) | TypeScript, React, Tailwind CSS |
-| **[HackMyResume](https://hackmyresu.me)** | A fullstack resume builder for creating professional resumes and cover letter. | Full Stack, NestJS, TypeScript, React, Nx |
+| **[HackMyResume](https://hackmyresu.me)** | A fullstack resume builder for creating professional resumes and cover letters. | Full Stack, NestJS, TypeScript, React, Nx |
 
 </div>
 
