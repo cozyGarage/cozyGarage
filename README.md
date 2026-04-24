@@ -43,7 +43,7 @@ Creating responsive, modern web applications with React ecosystem
 **⚙️ Backend**  
 Developing scalable APIs and server-side applications
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,python,fastapi,express" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express" alt="Backend" />
 </p>
 
 </td>
