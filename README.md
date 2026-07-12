@@ -5,7 +5,7 @@
 I engineer high-availability, compliant infrastructure and secure data pipelines for heavily regulated industries. By bridging the gap between raw systems engineering, data streaming, and security governance, I build platforms that are fast, resilient, and audit-ready.
 
 ### 🔭 Current Focus
-*   **Domain Expertise:** FinTech, Biopharma, and Healthcare Infrastructure.
+*   **Domain Expertise:** FinTech, Bio, and Healthcare Infrastructure.
 *   **Platform Engineering:** Architecting zero-downtime, bare-metal container orchestration and infrastructure as code (IaC).
 *   **Data Engineering:** Building privacy-preserving, high-throughput event streaming pipelines and resilient database topologies.
 *   **DevSecOps & Compliance:** Enforcing PCI-DSS and DORA compliance through automated vulnerability scanning, strict IAM, and zero-trust architectures.
@@ -32,7 +32,6 @@ High-impact profiles present their stack as an organized grid and categorize tec
 
 Recruiters scan for outcomes more than implementation details, so keeping project blurbs concise with measurable metrics is ideal.
 
-*   **[HackMyResu.me](link-here):** Created, shipped, and launched an open-source online resume builder. (Showcases my foundational full-stack capabilities and product-shipping mindset).
 *   **High-Throughput FinTech Pipeline (Architecture):** Designed an asynchronous Change Data Capture (CDC) pipeline using Kafka and PostgreSQL, isolating sensitive transactional OLTP data from OLAP analytical layers to maintain strict PCI-DSS compliance.
 *   **Automated Bare-Metal Provisioning:** Authored declarative Terraform and Ansible workflows (`--check --diff`) to reduce Debian VM deployment and database Point-in-Time Recovery (PITR) times to under 5 minutes.
 
@@ -41,4 +40,4 @@ Recruiters scan for outcomes more than implementation details, so keeping projec
 ### ⚡ Fun Facts & Workflow
 *   **Editor of Choice:** 100% terminal-centric. You will find me living inside Neovim, Tmux, and CLI-based AI agents. 
 *   **Downtime:** When I'm not tuning write-ahead logs, I'm usually optimizing grand strategy campaigns in *Hearts of Iron IV* or surviving boss fights in *Sekiro*.
-*   **Let's Connect:** [LinkedIn URL] | [Personal Website/Blog URL]
+*   **Let's Connect:** [LinkedIn URL](https://www.linkedin.com/in/nguyenthanhtrung8888/)
