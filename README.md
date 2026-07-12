@@ -30,10 +30,18 @@ High-impact profiles present their stack as an organized grid and categorize tec
 
 ### 🚀 Featured Work & Architecture
 
-Recruiters scan for outcomes more than implementation details, so keeping project blurbs concise with measurable metrics is ideal.
+| Project | What it proves |
+| :--- | :--- |
+| [**fintech-kafka-pipeline-mock**](https://github.com/cozyGarage/fintech-kafka-pipeline-mock) | Kafka → PII masking → PostgreSQL OLTP/OLAP separation for PCI-DSS-style compliance |
+| [**proxmox-debian-terraform-ansible**](https://github.com/cozyGarage/proxmox-debian-terraform-ansible) | Terraform Proxmox VM provisioning + Ansible hardening (SSH, UFW, fail2ban) |
+| [**sentielflow**](https://github.com/cozyGarage/sentielflow) | CI/CD security gatekeeper — secrets, IaC, dependencies, OPA policies, SARIF |
+| [**secure-ci-cd-template**](https://github.com/cozyGarage/secure-ci-cd-template) | Forkable GitHub template with Trivy + Gitleaks gates before Docker deploy |
+| [**libft**](https://github.com/cozyGarage/libft) | Systems programming foundation — custom C library, memory ownership, libc primitives |
+| [**platformforge**](https://github.com/cozyGarage/platformforge) | Local-first platform engineering school with Docker labs and deterministic validation |
 
-*   **High-Throughput FinTech Pipeline (Architecture):** Designed an asynchronous Change Data Capture (CDC) pipeline using Kafka and PostgreSQL, isolating sensitive transactional OLTP data from OLAP analytical layers to maintain strict PCI-DSS compliance.
-*   **Automated Bare-Metal Provisioning:** Authored declarative Terraform and Ansible workflows (`--check --diff`) to reduce Debian VM deployment and database Point-in-Time Recovery (PITR) times to under 5 minutes.
+![SentinelFlow CI](https://github.com/cozyGarage/sentielflow/actions/workflows/security-scan.yml/badge.svg)
+![Kafka Pipeline CI](https://github.com/cozyGarage/fintech-kafka-pipeline-mock/actions/workflows/ci.yml/badge.svg)
+![Proxmox IaC CI](https://github.com/cozyGarage/proxmox-debian-terraform-ansible/actions/workflows/terraform-validate.yml/badge.svg)
 
 ---
 
