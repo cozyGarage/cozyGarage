@@ -48,4 +48,4 @@ High-impact profiles present their stack as an organized grid and categorize tec
 ### ⚡ Fun Facts & Workflow
 *   **Editor of Choice:** 100% terminal-centric. You will find me living inside Neovim, Tmux, and CLI-based AI agents. 
 *   **Downtime:** When I'm not tuning write-ahead logs, I'm usually optimizing grand strategy campaigns in *Hearts of Iron IV* or surviving boss fights in *Sekiro*.
-*   **Let's Connect:** [LinkedIn URL](https://www.linkedin.com/in/nguyenthanhtrung8888/)
+*   **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/nguyenthanhtrung8888/) · [OPN Bio](https://opn.bio/@cozyGarage)
