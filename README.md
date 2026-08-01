@@ -1,11 +1,11 @@
 # ⚡ Hi, I'm Trung
 
-**Platform & Data Engineer | DevSecOps Architect | 📍 Vienna, Austria**
+**Platform & Data Engineer | 📍 Vienna, Austria**
 
 I engineer high-availability, compliant infrastructure and secure data pipelines for heavily regulated industries. By bridging the gap between raw systems engineering, data streaming, and security governance, I build platforms that are fast, resilient, and audit-ready.
 
 ### 🔭 Current Focus
-*   **Domain Expertise:** FinTech, Bio, and Healthcare Infrastructure.
+*   **Domain Expertise:** FinTech, Bank, and Healthcare Infrastructure.
 *   **Platform Engineering:** Architecting zero-downtime, bare-metal container orchestration and infrastructure as code (IaC).
 *   **Data Engineering:** Building privacy-preserving, high-throughput event streaming pipelines and resilient database topologies.
 *   **DevSecOps & Compliance:** Enforcing PCI-DSS and DORA compliance through automated vulnerability scanning, strict IAM, and zero-trust architectures.
@@ -23,8 +23,6 @@ High-impact profiles present their stack as an organized grid and categorize tec
 | **Data & Messaging** | PostgreSQL, Apache Kafka, Vectorized Python (Polars) |
 | **Systems Programming** | Go, Rust, C++, Python, Bash |
 | **Security & Observability**| HashiCorp Vault, Prometheus, Grafana, IAM |
-
-> 🏛️ **The Archive (Past Experience):** My foundation was built in full-stack software development. I have deep past experience architecting applications using **Java (SpringBoot), TypeScript, React, and Node.js**. I still leverage this software engineering mindset today to build better internal developer platforms.
 
 ---
 
